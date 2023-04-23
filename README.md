@@ -1,5 +1,3 @@
-<title>Sara Y Thakare</title>
-
 <img src="https://user-images.githubusercontent.com/125442270/233764192-423c75a4-c03b-4470-80f1-784e6538c910.jpg" height="400px" />
 
 
