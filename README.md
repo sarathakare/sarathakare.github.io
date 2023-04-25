@@ -29,9 +29,9 @@ An enthusiastic learner, thrives on exploring new ideas. Devours books, movies a
       <td style="text-align: center">BTech</td>
       <td style="text-align: center">IIT Goa</td>
     </tr>
-    
   </tbody>
 </table>
+
 
 
 
