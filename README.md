@@ -37,9 +37,8 @@ An enthusiastic learner, thrives on exploring new ideas. Devours books, movies a
 
 
 ## Course at IIT Goa
-
-- CS101 - Introduction to programming
-- CS102 - Software Tools
+- **CS101** - Introduction to programming - _Clint P George_ - 
+- **CS102** - Software Tools - _Clint P George_ - ![Webpage](https://clintpgeorge.github.io/cs-102/spring-2023/)
 
 ## Hobbies and Interests
 
