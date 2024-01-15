@@ -5,7 +5,7 @@
 
 ## Sara Y Thakare
 
-An enthusiastic learner, thrives on data-driven innovation and exploring new ideas. Devours books, movies and music and loves to embark on outdoor adventures. Also a Mathematics and Computer Science undergrad.
+An enthusiastic learner, thrives exploring new ideas. Devours books, movies and music and loves to embark on outdoor adventures. Also a Mathematics and Computer Science undergrad.
 
 
 ## Education
